@@ -1,5 +1,7 @@
-# Contributors
+﻿# Contributors
 
+- [Sebastian Upjohn] (https://github.com/supjohn)
+- [Anthony Bilic] (https://github.com/irulenot)
 - Getenet Wol (https://github.com/getsei)
 - archerkg
 - [Jonathan Mizrachi] (https://github.com/JohnMiz)
@@ -4556,3 +4558,13 @@
 - [Chris Arnold](https://github.com/chrisjarnold)
 - [Ahmad Sulaeman](https://github.com/asaeles)
 - [Steve Flames] (https://github.com/SteveFlames)
+- [S. Ben Stewart](https://github.com/sbenstewart)
+- [Millán Castro](https://github.com/diffo82)
+- [Algimantas Rauduve] (https://github.com/Algraud)
+- [Sakshi Dagar] (https://github.com/Dagarsakshi)
+- [Dinagar R] (https://github.com/ramdinagar)
+- [Richard Deane](https://github.com/titchimoto)
+- [Koder Mustafa] (https://github.com/KoderTheCoder)
+- [Amine Troudi] (https://github.com/protoxy)
+- [JeffyJS](https://github.com/jeffyjs)
+- [Garen C](http://github.com/88gaz88)
